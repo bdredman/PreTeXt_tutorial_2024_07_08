@@ -4,9 +4,10 @@
   <title>Chapter Title</title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> Texting before the first section. </p>
+    <p> I want to save this. </p>
   </introduction>
-
+ 
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
 
